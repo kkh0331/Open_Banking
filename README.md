@@ -2,7 +2,7 @@
 - 'FINTECH ACADEMY 핀테크 서비스 개발 과정 오픈뱅킹 기반 간편결제/지급결제' 했던 내용을 기반으로 만든 개인 프로젝트
 - 교육 일시 : 2023.07.31 ~ 2023.08.04
 
-# 개인프로젝트 : Open Banking Implementation Project
+# Open Banking Implementation Project
 - 오픈뱅킹 API 활용을 실습하기 위한 프로젝트
 - 참고 자료 : [금융결제원 오픈API 개발자사이트](https://developers.kftc.or.kr/dev/doc/open-banking)
 - 사용자인증(OAuth 2.0) 사용자인증 & 토큰발급 API
